@@ -1,11 +1,5 @@
 
 ---
-layout: post
-title:  "Welcome to blockgeek"
+title: "Best Mining software for andriod"
+date: 2021-07-09
 ---
-
-# Welcome
-
-**Hello world**,
-
-I hope you like it!
