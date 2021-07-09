@@ -1,5 +1,4 @@
-
 ---
-title: "Best Mining software for andriod"
+title: "Mining"
 date: 2021-07-09
 ---
