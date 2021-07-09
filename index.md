@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Cryptogeek"
 ---
-
-I'm glad you are here. I plan to talk about ...
+We are going to have lot of fun :)
