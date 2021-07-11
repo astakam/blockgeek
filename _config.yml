@@ -1,5 +1,15 @@
 theme: minima
 title: Blockgeek
 description: this is a blogging website for cryprto currency
+lsi: false
+safe: true
+source: astakam
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 gem "github-pages", group: :jekyll_plugins
