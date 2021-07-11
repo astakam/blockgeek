@@ -1,5 +1,5 @@
-theme: jekyll-theme-hacker
-title: Blockgeeek
+theme: minima
+title: Blockgeek
 description: this is a blogging website for cryprto currency
 
 gem "github-pages", group: :jekyll_plugins
