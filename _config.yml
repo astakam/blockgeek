@@ -1,4 +1,4 @@
-theme: minima
+theme: minimal-mistakes-jekyll
 title: Blockgeek
 description: this is a blogging website for cryprto currency
 lsi: false
@@ -12,4 +12,4 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-gem "github-pages", group: :jekyll_plugins
+
